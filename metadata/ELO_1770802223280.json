@@ -1,0 +1,49 @@
+{
+  "name": "Eilii",
+  "symbol": "ELO",
+  "description": "Hzjshhsjsjjsjsjjsjjjjj",
+  "image": "https://raw.githubusercontent.com/ee7718/solana-token-metadata/main/logos/ELO_1770802223280.png",
+  "external_url": "https://Djjdjjd.com",
+  "socials": {
+    "twitter": "Bxjsjjs",
+    "telegram": "Ndjndjdj",
+    "website": "https://Djjdjjd.com"
+  },
+  "created_at": "2026-02-11T09:30:24.239Z",
+  "created_via": "Telegram Solana Token Bot",
+  "network": "mainnet-beta",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "SPL"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Mintable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Freezable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "@Bxjsjjs"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "@Ndjndjdj"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://Djjdjjd.com"
+    }
+  ]
+}
