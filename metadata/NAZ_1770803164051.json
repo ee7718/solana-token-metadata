@@ -1,0 +1,49 @@
+{
+  "name": "Nanaz",
+  "symbol": "NAZ",
+  "description": "The best best best best",
+  "image": "https://raw.githubusercontent.com/ee7718/solana-token-metadata/main/logos/NAZ_1770803164051.png",
+  "external_url": "https://Jdjdjsjs.oi",
+  "socials": {
+    "twitter": "Ppskjskks",
+    "telegram": "Jdjdjjs",
+    "website": "https://Jdjdjsjs.oi"
+  },
+  "created_at": "2026-02-11T09:46:05.113Z",
+  "created_via": "Telegram Solana Token Bot",
+  "network": "mainnet-beta",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "SPL"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Mintable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Freezable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "@Ppskjskks"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "@Jdjdjjs"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://Jdjdjsjs.oi"
+    }
+  ]
+}
