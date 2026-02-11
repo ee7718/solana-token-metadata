@@ -1,0 +1,49 @@
+{
+  "name": "Kendra",
+  "symbol": "LUST",
+  "description": "Funny kendra lust. love kendra",
+  "image": "https://raw.githubusercontent.com/ee7718/solana-token-metadata/main/logos/LUST_1770805652564.png",
+  "external_url": "https://Kendralust.com",
+  "socials": {
+    "twitter": "KendraLust",
+    "telegram": "kendralust",
+    "website": "https://Kendralust.com"
+  },
+  "created_at": "2026-02-11T10:27:33.718Z",
+  "created_via": "Telegram Solana Token Bot",
+  "network": "mainnet-beta",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "SPL"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Mintable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Freezable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "@KendraLust"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "@kendralust"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://Kendralust.com"
+    }
+  ]
+}
