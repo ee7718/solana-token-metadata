@@ -1,0 +1,49 @@
+{
+  "name": "Ehsan",
+  "symbol": "EHSA",
+  "description": "Hdhsjsjsksjsjnsjnsnsj",
+  "image": "https://raw.githubusercontent.com/ee7718/solana-token-metadata/main/logos/EHSA_1770992085810.png",
+  "external_url": "https://Hahahaha.ir",
+  "socials": {
+    "twitter": "Hshshs",
+    "telegram": "Djjdjd",
+    "website": "https://Hahahaha.ir"
+  },
+  "created_at": "2026-02-13T14:14:46.983Z",
+  "created_via": "Telegram Solana Token Bot",
+  "network": "mainnet-beta",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "SPL"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Mintable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Freezable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "@Hshshs"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "@Djjdjd"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://Hahahaha.ir"
+    }
+  ]
+}
