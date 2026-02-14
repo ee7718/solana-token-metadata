@@ -1,0 +1,49 @@
+{
+  "name": "Bzhsh",
+  "symbol": "DJJD",
+  "description": "Djjdososolslskskkdkkdkd",
+  "image": "https://raw.githubusercontent.com/ee7718/solana-token-metadata/main/logos/DJJD_1771098200916.png",
+  "external_url": "https://Jdjdjsj.ir",
+  "socials": {
+    "twitter": "Znnsjs",
+    "telegram": "Djjdjddjdk",
+    "website": "https://Jdjdjsj.ir"
+  },
+  "created_at": "2026-02-14T19:43:22.020Z",
+  "created_via": "Telegram Solana Token Bot",
+  "network": "mainnet-beta",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "SPL"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Mintable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Freezable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "@Znnsjs"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "@Djjdjddjdk"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://Jdjdjsj.ir"
+    }
+  ]
+}
