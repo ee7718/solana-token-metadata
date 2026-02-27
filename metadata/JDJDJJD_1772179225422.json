@@ -1,0 +1,49 @@
+{
+  "name": "Djjdjjd",
+  "symbol": "JDJDJJD",
+  "description": "Dkjdkspsplxkkfkdopdld",
+  "image": "https://raw.githubusercontent.com/ee7718/solana-token-metadata/main/logos/JDJDJJD_1772179225422.png",
+  "external_url": "https://Kdkkdkd.com",
+  "socials": {
+    "twitter": "Jdkdkkd",
+    "telegram": "Ndjdjd",
+    "website": "https://Kdkkdkd.com"
+  },
+  "created_at": "2026-02-27T08:00:26.358Z",
+  "created_via": "Telegram Solana Token Bot",
+  "network": "mainnet-beta",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "SPL"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Mintable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Freezable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "@Jdkdkkd"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "@Ndjdjd"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://Kdkkdkd.com"
+    }
+  ]
+}
