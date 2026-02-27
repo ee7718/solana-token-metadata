@@ -1,0 +1,49 @@
+{
+  "name": "Cristiano",
+  "symbol": "CR7",
+  "description": "The fun token cristiano Ronaldo",
+  "image": "https://raw.githubusercontent.com/ee7718/solana-token-metadata/main/logos/CR7_1772185237079.png",
+  "external_url": "https://www.cristianoronaldo.com/",
+  "socials": {
+    "twitter": "Cristiano",
+    "telegram": "cristiano",
+    "website": "https://www.cristianoronaldo.com/"
+  },
+  "created_at": "2026-02-27T09:40:38.158Z",
+  "created_via": "Telegram Solana Token Bot",
+  "network": "mainnet-beta",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "SPL"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Mintable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Freezable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "@Cristiano"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "@cristiano"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://www.cristianoronaldo.com/"
+    }
+  ]
+}
