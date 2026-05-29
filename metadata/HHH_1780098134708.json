@@ -1,0 +1,49 @@
+{
+  "name": "Bbh",
+  "symbol": "HHH",
+  "description": "Vkkhgtghhhjhjjjjhhjjjjjjjjjjjjjj",
+  "image": "https://raw.githubusercontent.com/ee7718/solana-token-metadata/main/logos/HHH_1780098134708.png",
+  "external_url": "https://Jj",
+  "socials": {
+    "twitter": "Hh",
+    "telegram": "Pp",
+    "website": "https://Jj"
+  },
+  "created_at": "2026-05-29T23:42:15.656Z",
+  "created_via": "Telegram Solana Token Bot",
+  "network": "mainnet-beta",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "SPL"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Mintable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Freezable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "@Hh"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "@Pp"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://Jj"
+    }
+  ]
+}
