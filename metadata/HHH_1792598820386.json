@@ -1,0 +1,49 @@
+{
+  "name": "Fff",
+  "symbol": "HHH",
+  "description": "Hhjkllhhhklllhhjjjjj",
+  "image": "https://raw.githubusercontent.com/ee7718/solana-token-metadata/main/logos/HHH_1792598820386.png",
+  "external_url": "https://Jdjd.com",
+  "socials": {
+    "twitter": "hdhsj",
+    "telegram": "Djjd",
+    "website": "https://Jdjd.com"
+  },
+  "created_at": "2026-10-21T16:07:02.698Z",
+  "created_via": "Telegram Solana Token Bot",
+  "network": "mainnet-beta",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "SPL"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Mintable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Freezable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "@hdhsj"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "@Djjd"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://Jdjd.com"
+    }
+  ]
+}
