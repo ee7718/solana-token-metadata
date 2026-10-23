@@ -1,0 +1,49 @@
+{
+  "name": "Democrats Coin",
+  "symbol": "DMC",
+  "description": "Election United States of America",
+  "image": "https://raw.githubusercontent.com/ee7718/solana-token-metadata/main/logos/DMC_1792790813354.png",
+  "external_url": "https://Democrats.com",
+  "socials": {
+    "twitter": "Dmc",
+    "telegram": "Dmc",
+    "website": "https://Democrats.com"
+  },
+  "created_at": "2026-10-23T21:26:54.898Z",
+  "created_via": "Telegram Solana Token Bot",
+  "network": "mainnet-beta",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Mainnet"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "SPL"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "9"
+    },
+    {
+      "trait_type": "Mintable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Freezable",
+      "value": "No"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "@Dmc"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "@Dmc"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://Democrats.com"
+    }
+  ]
+}
